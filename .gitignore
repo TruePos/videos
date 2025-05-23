@@ -1,0 +1,9 @@
+manim-env/
+
+*.mp4
+*.txt
+*.svg
+*.pyc
+
+SQL/animations/media/
+SQL/animations/__pycache__/
